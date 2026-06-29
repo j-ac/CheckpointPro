@@ -3,7 +3,8 @@
 
 CheckpointPro is a slimmed-down alternative to Git for the classroom environment. CheckpointPro offers an easy and intuitive interface to make Version Control accessible for everyone.
 Document your students' progress, empower them to recover from their own mistakes, and help yourself stick to the curriculum.
-<img width="1041" height="825" alt="image" src="https://github.com/user-attachments/assets/ba26ff30-bf10-47fb-a83f-62315b04691b" />
+
+<img width="521" height="413" alt="image" src="https://github.com/user-attachments/assets/ba26ff30-bf10-47fb-a83f-62315b04691b" />
 
 ## Features
 
@@ -14,13 +15,13 @@ Rewind the project to old versions to review progress.
 ### Project Reports
 Instantly generate Project Reports to give a summary of the rate of progress. Track timelines, and investigate suspicious rates of progress.
 
-<img width="650" height="623" alt="image" src="https://github.com/user-attachments/assets/b6555707-90b2-4162-87b4-07251a06b0cc" />
+<img width="433" height="415" alt="image" src="https://github.com/user-attachments/assets/b6555707-90b2-4162-87b4-07251a06b0cc" />
 
 ### Review Unsaved Work
 Empower students to recover from their mistakes by reviewing their changes when things break unexpectedly.
 Students can bravely edit their code without fear of losing track of it all.
 
-<img width="1001" height="777" alt="image" src="https://github.com/user-attachments/assets/5c8f3406-863a-4ce1-a178-b30917fd42ca" />
+<img width="667" height="518" alt="image" src="https://github.com/user-attachments/assets/5c8f3406-863a-4ce1-a178-b30917fd42ca" />
 
 ### Share with students
 Students can install and run CheckpointPro for themselves on their own computers and laptops.
